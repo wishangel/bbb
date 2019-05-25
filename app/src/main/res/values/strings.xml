@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FitBitWars</string>
+    <string name="rule_13">ルール説明(1/3)</string>
+    <string name="rule_23">ルール説明(2/3)</string>
+    <string name="rule_33">ルール説明(3/3)</string>
+    <string name="rule_explain"/>
+    <string name="Explain_1_1">Fitbitの活動データから、モンスターを生み出せ！</string>
+    <string name="Explain_2_1">モンスターにはパラメータが設定されている</string>
+    <string name="Explain_2_2">過去１日の行動によって、パラメータは決まるぞ</string>
+    <string name="Explain_3_2">最強のモンスターを作り出せ！</string>
+    <string name="Explain_3_1">作ったモンスターは他のモンスターと対戦可能！</string>
+    <string name="battleStart">vs</string>
+    <string name="hp1">hp1</string>
+    <string name="hp2">hp2</string>
+    <string name="name2">name2</string>
+    <string name="name1">name1</string>
+</resources>
